@@ -13,8 +13,7 @@ By analyzing over **27,000 hourly records**, this project uncovers critical oper
 
 ## 📊 Dashboard Preview
 *(Insert a high-quality screenshot of your dashboard here)*
-![Dashboard Preview](<img width="1871" height="886" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/06e905be-aee9-4727-89c7-d26b06bace7c" />
-) 
+![Dashboard Preview]() 
 
 ## 🔍 The Business Problem & Key Findings
 The supply chain was experiencing severe inefficiencies. Through deep-dive analysis, the following root causes were identified:
@@ -53,4 +52,4 @@ To ensure data accuracy and dynamic reporting, the following transformations wer
 * `images/`: Directory containing screenshots for documentation.
 
 ---
-*Created by  Ahmed Abdel fattah - Senior Statistics & Computer Science Student*
+*Created by [Your Name / Ahmed Abdelfattah] - Senior Statistics & Computer Science Student*
