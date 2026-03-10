@@ -47,7 +47,6 @@ To ensure data accuracy and dynamic reporting, the following transformations wer
 ## 📁 Repository Structure
 * `dynamic_supply_chain_logistics_dataset.csv`: The raw dataset.
 * `SupplyChain_Dashboard.xlsx`: The final Excel file containing the Power Query ETL, Pivot Tables, and Interactive Dashboard.
-* `Dashboard_View.pdf`: A static one-page PDF export of the final dashboard.
 * `images/`: Directory containing screenshots for documentation.
 
 ---
