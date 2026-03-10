@@ -12,8 +12,7 @@ By analyzing over **27,000 hourly records**, this project uncovers critical oper
 * **Visualization:** Pivot Charts, Conditional Formatting (Heatmaps), Dynamic Slicers
 
 ## 📊 Dashboard Preview
-*(Insert a high-quality screenshot of your dashboard here)*
-![Dashboard Preview]() 
+![Dashboard Preview](https://github.com/Ahmedx25/Supply-Chain/blob/5fc1e6c408b0ea7033c23ae7d40730cb873c6582/Screenshot%20(37).png) 
 
 ## 🔍 The Business Problem & Key Findings
 The supply chain was experiencing severe inefficiencies. Through deep-dive analysis, the following root causes were identified:
