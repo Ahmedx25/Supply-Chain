@@ -1,17 +1,17 @@
-# 🚚 Logistics & Supply Chain Operations Dashboard
+#  Logistics & Supply Chain Operations Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project is a comprehensive data analysis and visualization of a logistics network in Southern California. The goal is to help Operations Managers monitor service reliability, cost efficiency, and operational risk over a 3-year period (Jan 2021 – Jan 2024). 
 
 By analyzing over **27,000 hourly records**, this project uncovers critical operational bottlenecks and provides actionable insights to reduce late deliveries and minimize cargo damage.
 
-## 🛠️ Technical Stack
+##  Technical Stack
 * **Tool:** Advanced Microsoft Excel
 * **ETL & Data Cleaning:** Power Query (M Code)
 * **Data Modeling:** Excel Data Model & Pivot Tables
 * **Visualization:** Pivot Charts, Conditional Formatting (Heatmaps), Dynamic Slicers
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Preview](https://github.com/Ahmedx25/Supply-Chain/blob/a61e50d148e965248d7baec6e0fd213d33b41afd/dashboard.png)
 
 ## 🔍 The Business Problem & Key Findings
@@ -32,19 +32,19 @@ The supply chain was experiencing severe inefficiencies. Through deep-dive analy
 4. **Risk Heatmap Analysis:**
    * Identified specific days and hours where "Delay Probability" peaks, allowing for targeted operational interventions.
 
-## ⚙️ Methodology & ETL Process (Power Query)
+##  Methodology & ETL Process (Power Query)
 To ensure data accuracy and dynamic reporting, the following transformations were applied using Power Query:
 * **Date Filtering:** Established a strict analysis window (Jan 1, 2021 - Jan 31, 2024) using a parameter table.
 * **Feature Engineering:** Extracted `Year`, `Month`, `Day Name`, and `Hour` from raw timestamps for granular time-series analysis.
 * **Geospatial Bucketing:** Rounded GPS coordinates (`vehicle_gps_latitude`, `vehicle_gps_longitude`) to create anonymized `Geo_Zone` clusters.
 * **Risk Categorization:** Built conditional logic to create operational bands (e.g., Traffic_Band, RouteRisk_Band) and binary flags for critical KPIs (`Late_Flag`, `Cargo_Good_Flag`).
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 1. **Urgent Warehouse Maintenance:** Prioritize equipment repair and leasing to increase availability from 27% to at least 80%, instantly reducing loading times.
 2. **Buffer ETA Models:** Temporarily add a 3-hour buffer to customer delivery promises until operational bottlenecks are resolved.
 3. **Handling Protocols Review:** Implement strict IoT vibration/temperature monitoring and retrain staff to address the 73% cargo damage rate.
 
-## 📁 Repository Structure
+##  Repository Structure
 * `dynamic_supply_chain_logistics_dataset.csv`: The raw dataset.
 * `SupplyChain_Dashboard.xlsx`: The final Excel file containing the Power Query ETL, Pivot Tables, and Interactive Dashboard.
 * `images/`: Directory containing screenshots for documentation.
