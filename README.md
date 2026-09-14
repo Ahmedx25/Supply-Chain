@@ -14,7 +14,7 @@ By analyzing over **27,000 hourly records**, this project uncovers critical oper
 ##  Dashboard Preview
 ![Dashboard Preview](https://github.com/Ahmedx25/Supply-Chain/blob/a61e50d148e965248d7baec6e0fd213d33b41afd/dashboard.png)
 
-## 🔍 The Business Problem & Key Findings
+##  The Business Problem & Key Findings
 The supply chain was experiencing severe inefficiencies. Through deep-dive analysis, the following root causes were identified:
 
 1. **The Core Bottleneck (Equipment Shortage):**
