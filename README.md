@@ -49,5 +49,3 @@ To ensure data accuracy and dynamic reporting, the following transformations wer
 * `SupplyChain_Dashboard.xlsx`: The final Excel file containing the Power Query ETL, Pivot Tables, and Interactive Dashboard.
 * `images/`: Directory containing screenshots for documentation.
 
----
-*Created by [Your Name / Ahmed Abdelfattah] - Senior Statistics & Computer Science Student*
