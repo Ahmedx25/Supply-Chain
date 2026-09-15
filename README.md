@@ -7,7 +7,7 @@ By analyzing over **27,000 hourly records**, this project uncovers critical oper
 
 ##  Technical Stack
 * **Tool:** Advanced Microsoft Excel
-* **ETL & Data Cleaning:** Power Query (M Code)
+* **ETL & Data Cleaning:** Power Query 
 * **Data Modeling:** Excel Data Model & Pivot Tables
 * **Visualization:** Pivot Charts, Conditional Formatting (Heatmaps), Dynamic Slicers
 
